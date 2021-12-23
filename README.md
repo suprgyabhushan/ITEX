@@ -10,11 +10,16 @@ Linux Mint Kernel
 3. PostgreSQL
 
 # Setup:
-$ npm install
+$ npm install 
+
 $ rvm install 2.5.1
+
 $ rvm use 2.5.1
+
 $ bundle update
+
 $ bundle install
+
 $ rake db:setup
 
 # Run Frontend:
