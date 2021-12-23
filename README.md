@@ -10,9 +10,9 @@ Linux Mint Kernel
 3. PostgreSQL
 
 # Setup:
-$ npm install 
+$ npm install (https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
-$ rvm install 2.5.1
+$ rvm install 2.5.1 (https://rvm.io/rvm/install)
 
 $ rvm use 2.5.1
 
@@ -27,5 +27,7 @@ $ npm run webpack
 
 # Run Backend
 $ rails s
+
+
 
 
